@@ -35,6 +35,9 @@ Durante la validación inicial, se identificaron los siguientes problemas comune
 - **No se utilizaban roles y propiedades ARIA**: Los botones y enlaces no estaban completamente descritos para los usuarios de lectores de pantalla. Se añadieron atributos `aria-label` a los botones y enlaces para describir mejor sus funciones.
 
 ### Enlace a las capturas de pantalla
+![image](https://github.com/user-attachments/assets/9eab4664-1eb0-4cc7-9c05-fcf8deb19a02)
+![image](https://github.com/user-attachments/assets/41b303ad-ee26-4987-87f1-b16ec2cc5910)
+
 
 ![Captura de pantalla 2025-02-16 132343](https://github.com/user-attachments/assets/29e17ad8-ed2b-4b93-936d-5ee372d0f102)
 
@@ -75,6 +78,8 @@ During the initial validation, the following common accessibility issues were id
 - **No ARIA roles and properties used**: Buttons and links were not fully described for screen reader users. `aria-label` attributes were added to buttons and links to better describe their functions.
 
 ### Link to Screenshots
+![image](https://github.com/user-attachments/assets/9eab4664-1eb0-4cc7-9c05-fcf8deb19a02)
+![image](https://github.com/user-attachments/assets/41b303ad-ee26-4987-87f1-b16ec2cc5910)
 
 ![Captura de pantalla 2025-02-16 132343](https://github.com/user-attachments/assets/29e17ad8-ed2b-4b93-936d-5ee372d0f102)
 
