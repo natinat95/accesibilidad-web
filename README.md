@@ -36,9 +36,12 @@ Durante la validación inicial, se identificaron los siguientes problemas comune
 
 ### Enlace a las capturas de pantalla
 Antes
-![image](https://github.com/user-attachments/assets/9eab4664-1eb0-4cc7-9c05-fcf8deb19a02)
+![indexSin](https://github.com/user-attachments/assets/925442c0-2034-4e5c-93dd-733f8d0acb14)
+
 Después
-![image](https://github.com/user-attachments/assets/41b303ad-ee26-4987-87f1-b16ec2cc5910)
+![indexCon](https://github.com/user-attachments/assets/156667e8-9ba0-44f0-9907-dea3d47488bc)
+
+
 
 
 ![Captura de pantalla 2025-02-16 132343](https://github.com/user-attachments/assets/29e17ad8-ed2b-4b93-936d-5ee372d0f102)
@@ -81,9 +84,11 @@ During the initial validation, the following common accessibility issues were id
 
 ### Link to Screenshots
 Antes
-![image](https://github.com/user-attachments/assets/9eab4664-1eb0-4cc7-9c05-fcf8deb19a02)
+![indexSin](https://github.com/user-attachments/assets/925442c0-2034-4e5c-93dd-733f8d0acb14)
+
 Después
-![image](https://github.com/user-attachments/assets/41b303ad-ee26-4987-87f1-b16ec2cc5910)
+![indexCon](https://github.com/user-attachments/assets/156667e8-9ba0-44f0-9907-dea3d47488bc)
+
 
 ![Captura de pantalla 2025-02-16 132343](https://github.com/user-attachments/assets/29e17ad8-ed2b-4b93-936d-5ee372d0f102)
 
