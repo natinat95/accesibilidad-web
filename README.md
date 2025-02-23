@@ -20,15 +20,16 @@ Durante la validación inicial, se identificaron los siguientes problemas comune
 - **Contraste bajo en los botones de los vídeos** Cambiamos el fondo a #C20000 (rojo oscuro) para mejorar la relación de contraste.
 
 ### Enlace a las capturas de pantalla
-Antes
-![indexSin](https://github.com/user-attachments/assets/925442c0-2034-4e5c-93dd-733f8d0acb14)
 
-Después
-![indexCon](https://github.com/user-attachments/assets/156667e8-9ba0-44f0-9907-dea3d47488bc)
+**Antes**
+![indexSin](captura1.png)
+
+**Después**
+![indexCon](captura2.png)
 
 
-
-![Captura de pantalla 2025-02-16 132343](https://github.com/user-attachments/assets/29e17ad8-ed2b-4b93-936d-5ee372d0f102)
+**Accesibilidad**
+![Captura de pantalla 2025-02-16 132343](captura3.png)
 
 # Web Accessibility Project  
 
@@ -56,7 +57,10 @@ During the initial validation, the following common accessibility issues were id
 ### Screenshots  
 
 **Before**  
-![indexSin](https://github.com/user-attachments/assets/925442c0-2034-4e5c-93dd-733f8d0acb14)  
+![indexSin](captura1.png)
 
 **After**  
-![indexCon](https://github.com/user-attachments/assets/156667e8-9ba0-44f0-9907-dea3d47488bc)  
+![indexCon](captura2.png)
+
+**Accessibility**
+![Captura de pantalla 2025-02-16 132343](captura3.png)
